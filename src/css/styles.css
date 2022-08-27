@@ -21,8 +21,7 @@ img {
 #search-box {
   font: inherit;
   padding: 8px;
-  max-width: 500px;
-  min-width: 400px;
+  max-width: 350px;
   margin-bottom: 16px;
 }
 
